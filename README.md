@@ -1,4 +1,4 @@
-# Forage_PowerBI-_-job_simulation-_programme.
+# Forage_PowerBI_job_simulation_programme.
 pwc - Power Bi-virtual-programme by forage.
 # Task 1: Introduction
  But before you start, we would love to hear from you. Let’s set the mood to start your experience in Power BI. 
